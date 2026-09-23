@@ -57,3 +57,10 @@ venv.bak/
 # Development
 
 docs/memo.md
+
+# MkDocs build output
+site/
+
+# AI agents (ローカル専用設定)
+.claude/settings.local.json
+CLAUDE.local.md
